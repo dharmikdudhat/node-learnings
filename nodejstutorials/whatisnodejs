@@ -1,0 +1,9 @@
+node js is a javascript running on a server.
+node js is a javascript runtime built on chromes v8 javascript engine.
+  
+  
+  when to use node js :- 
+  1) When you need to run your application in an environment that doesn't support web browsers, such as a mobile device or a server-side    
+        i/o bound 
+        real time chat applications instagram
+        data streaming applications netflix
